@@ -67,8 +67,8 @@ nav {
   color: blue;
   border-bottom: none;
  }
- .imgtwo {
-  
+ .center span {
+  font-size: 30px;
  }
  .two {
   flex-direction: column;
